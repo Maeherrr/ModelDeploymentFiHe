@@ -1,0 +1,29 @@
+{
+    "coefficients": [
+        0.024990552671673598,
+        -1.0835902586934385,
+        -0.18256394841071302,
+        0.0163312697654749,
+        -1.8742251580992002,
+        0.004361333309096549,
+        -0.003264579703068815,
+        -17.88116383249575,
+        -0.41365314382176066,
+        0.9163344127211319,
+        0.27619769922688747
+    ],
+    "intercept": 21.965208449448355,
+    "features": [
+        "fixed_acidity",
+        "volatile_acidity",
+        "citric_acid",
+        "residual_sugar",
+        "chlorides",
+        "free_sulfur_dioxide",
+        "total_sulfur_dioxide",
+        "density",
+        "pH",
+        "sulphates",
+        "alcohol"
+    ]
+}
